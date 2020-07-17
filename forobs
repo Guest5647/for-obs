@@ -1,0 +1,154 @@
+19:48:53.038: CoInitializeEx succeeded: 0x00000001
+19:48:53.038: CPU Name: Intel(R) Core(TM) i3-3217U CPU @ 1.80GHz
+19:48:53.039: CPU Speed: 1796MHz
+19:48:53.039: Physical Cores: 2, Logical Cores: 4
+19:48:53.039: Physical Memory: 3983MB Total, 1565MB Free
+19:48:53.039: Windows Version: 10.0 Build 19041 (release: 2004; revision: 388; 64-bit)
+19:48:53.039: Running as administrator: false
+19:48:53.039: Aero is Enabled (Aero is always on for windows 8 and above)
+19:48:53.039: Windows 10 Gaming Features:
+19:48:53.039: 	Game Bar: Off
+19:48:53.039: 	Game DVR: Off
+19:48:53.039: 	Game DVR Background Recording: Off
+19:48:53.040: 	Game Mode: On
+19:48:53.043: Sec. Software Status:
+19:48:53.046: 	Microsoft Defender Antivirus: enabled (AV)
+19:48:53.046: 	Windows Firewall: enabled (FW)
+19:48:53.061: Current Date/Time: 2020-07-17, 19:48:53
+19:48:53.061: Browser Hardware Acceleration: true
+19:48:53.061: Portable mode: false
+19:48:57.065: OBS 25.0.8 (64-bit, windows)
+19:48:57.065: ---------------------------------
+19:48:57.094: ---------------------------------
+19:48:57.094: audio settings reset:
+19:48:57.094: 	samples per sec: 44100
+19:48:57.094: 	speakers:        2
+19:48:57.159: ---------------------------------
+19:48:57.159: Initializing D3D11...
+19:48:57.159: Available Video Adapters: 
+19:48:57.163: 	Adapter 0: Intel(R) HD Graphics 4000
+19:48:57.163: 	  Dedicated VRAM: 33554432
+19:48:57.163: 	  Shared VRAM:    1845493760
+19:48:57.163: 	  PCI ID:         8086:166
+19:48:57.164: 	  Driver Version: 10.18.10.5129
+19:48:57.164: 	  output 0: pos={0, 0}, size={1366, 768}, attached=true, refresh=60, name=
+19:48:57.170: Loading up D3D11 on adapter Intel(R) HD Graphics 4000 (0)
+19:48:57.178: D3D11 loaded successfully, feature level used: b000
+19:48:57.178: DXGI increase maximum frame latency success
+19:48:58.568: ---------------------------------
+19:48:58.568: video settings reset:
+19:48:58.568: 	base resolution:   1920x1080
+19:48:58.568: 	output resolution: 1364x768
+19:48:58.568: 	downscale filter:  Lanczos
+19:48:58.568: 	fps:               60/1
+19:48:58.568: 	format:            NV12
+19:48:58.568: 	YUV mode:          601/Partial
+19:48:58.568: NV12 texture support not available
+19:48:58.569: Audio monitoring device:
+19:48:58.569: 	name: Default
+19:48:58.569: 	id: default
+19:48:58.569: ---------------------------------
+19:48:58.774: [CoreAudio encoder]: CoreAudio AAC encoder not installed on the system or couldn't be loaded
+19:48:58.805: Failed to load 'en-US' text for module: 'decklink-ouput-ui.dll'
+19:48:59.144: [AMF] Unable to load 'amfrt64.dll', error code 126.
+19:48:59.148: [AMF] AMF Test failed due to one or more errors.
+19:48:59.148: Failed to initialize module 'enc-amf.dll'
+19:49:00.661: [obs-browser]: Version 2.8.6
+19:49:02.741: VLC found, VLC video source enabled
+19:49:03.125: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+19:49:03.127: No blackmagic support
+19:49:03.658: ---------------------------------
+19:49:03.659:   Loaded Modules:
+19:49:03.659:     win-wasapi.dll
+19:49:03.659:     win-mf.dll
+19:49:03.659:     win-ivcam.dll
+19:49:03.659:     win-dshow.dll
+19:49:03.659:     win-decklink.dll
+19:49:03.659:     win-capture.dll
+19:49:03.659:     vlc-video.dll
+19:49:03.659:     text-freetype2.dll
+19:49:03.659:     rtmp-services.dll
+19:49:03.659:     obs-x264.dll
+19:49:03.659:     obs-vst.dll
+19:49:03.659:     obs-transitions.dll
+19:49:03.659:     obs-text.dll
+19:49:03.659:     obs-qsv11.dll
+19:49:03.659:     obs-outputs.dll
+19:49:03.659:     obs-filters.dll
+19:49:03.659:     obs-ffmpeg.dll
+19:49:03.659:     obs-browser.dll
+19:49:03.659:     image-source.dll
+19:49:03.659:     frontend-tools.dll
+19:49:03.659:     enc-amf.dll
+19:49:03.659:     decklink-ouput-ui.dll
+19:49:03.659:     coreaudio-encoder.dll
+19:49:03.659: ---------------------------------
+19:49:03.659: ==== Startup complete ===============================================
+19:49:03.854: All scene data cleared
+19:49:03.854: ------------------------------------------------
+19:49:05.032: WASAPI: Device 'Speakers / Headphones (Realtek High Definition Audio)' [48000 Hz] initialized
+19:49:05.032: [Loaded global audio device]: 'Desktop Audio'
+19:49:05.099: [window-capture: 'Floating Sandbox'] update settings:
+19:49:05.099: 	executable: FloatingSandbox.exe
+19:49:05.099: [window-capture: 'Window Capture 2'] update settings:
+19:49:05.099: 	executable: FloatingSandbox.exe
+19:49:05.100: [window-capture: 'Speedruning tool'] update settings:
+19:49:05.100: 	executable: LiveSplit.exe
+19:49:05.100: [window-capture: 'Window Capture'] update settings:
+19:49:05.100: 	executable: VirtualBoxVM.exe
+19:49:05.101: [window-capture: 'Roblox'] update settings:
+19:49:05.101: 	executable: RobloxPlayerBeta.exe
+19:49:05.102: [window-capture: 'MIINECRAFT IN LATER VERSIONS'] update settings:
+19:49:05.102: 	executable: javaw.exe
+19:49:05.103: Switched to scene 'Scene'
+19:49:05.121: ------------------------------------------------
+19:49:05.121: Loaded scenes:
+19:49:05.121: - scene 'Scene':
+19:49:05.121:     - source: 'Display Capture' (monitor_capture)
+19:49:05.121:     - source: 'Games' (group)
+19:49:05.121:         - source: 'Floating Sandbox' (window_capture)
+19:49:05.121:         - source: 'Roblox' (window_capture)
+19:49:05.121:         - source: 'MIINECRAFT IN LATER VERSIONS' (window_capture)
+19:49:05.121:         - source: 'Window Capture' (window_capture)
+19:49:05.121:         - source: 'Speedruning tool' (window_capture)
+19:49:05.121:         - source: 'Window Capture 2' (window_capture)
+19:49:05.121: ------------------------------------------------
+19:49:46.403: adding 46 milliseconds of audio buffering, total audio buffering is now 46 milliseconds (source: Desktop Audio)
+19:49:46.403: 
+19:50:38.192: ---------------------------------
+19:50:38.193: video settings reset:
+19:50:38.193: 	base resolution:   1920x1080
+19:50:38.193: 	output resolution: 768x432
+19:50:38.193: 	downscale filter:  Lanczos
+19:50:38.193: 	fps:               60/1
+19:50:38.193: 	format:            NV12
+19:50:38.193: 	YUV mode:          601/Partial
+19:50:38.193: NV12 texture support not available
+19:50:38.224: Settings changed (video)
+19:50:38.224: ------------------------------------------------
+19:51:25.316: Settings changed (outputs)
+19:51:25.316: ------------------------------------------------
+19:51:34.561: ---------------------------------
+19:51:34.561: video settings reset:
+19:51:34.561: 	base resolution:   1920x1080
+19:51:34.561: 	output resolution: 768x432
+19:51:34.561: 	downscale filter:  Lanczos
+19:51:34.561: 	fps:               60/1
+19:51:34.561: 	format:            NV12
+19:51:34.561: 	YUV mode:          601/Partial
+19:51:34.562: NV12 texture support not available
+19:51:34.593: Settings changed (advanced)
+19:51:34.594: ------------------------------------------------
+19:52:09.013: ---------------------------------
+19:52:09.013: video settings reset:
+19:52:09.013: 	base resolution:   1920x1080
+19:52:09.013: 	output resolution: 768x432
+19:52:09.013: 	downscale filter:  Lanczos
+19:52:09.013: 	fps:               50/1
+19:52:09.013: 	format:            NV12
+19:52:09.013: 	YUV mode:          601/Partial
+19:52:09.014: NV12 texture support not available
+19:52:09.088: Settings changed (video)
+19:52:09.089: ------------------------------------------------
+19:54:53.972: Settings changed (outputs)
+19:54:53.972: ------------------------------------------------
